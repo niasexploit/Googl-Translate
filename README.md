@@ -7,4 +7,7 @@ hidayat@code:~$ pip install googletrans==3.1.0a0
 ```
 # List Bahasa
 Untuk List bahasa yang di inginkan bisa cek di link berikut 
+```console
 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+```
+
